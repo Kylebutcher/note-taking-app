@@ -9,7 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
   },
   "keywords": [],
   "description": ""
